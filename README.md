@@ -1,4 +1,4 @@
-> This report explained, from a revere engineering perspective, how `ndsudo` executable from `netdata` versions prior to `1.45.2` works. It was the binary used when exploiting `CVE-2025-24893`.
+> This report explains, from a reverse engineering perspective, how `ndsudo` executable from `netdata` versions prior to `1.45.2` works. It was the binary used when exploiting `CVE-2025-24893`.
 
 # Analysis
 
